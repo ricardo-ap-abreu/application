@@ -1,0 +1,50 @@
+// fonts
+$font-default: '';
+
+// font-size
+$x-small: 0.7em;
+$small: 0.85em;
+$default: 1em;
+$medium: 1.1em;
+$large: 1.3em;
+$x-large: 2.3em;
+$xx-large: 3.3em;
+
+$sizes: (
+    x-small: $x-small,
+    small: $small,
+    default: $default, //1em
+    medium: $medium,
+    large: $large,
+    x-large: $x-large,
+    xx-large: $xx-large
+);
+
+// colors
+$defaultGrey: #6c757d;
+$defaultBlue: #004a8f;
+
+$black: #000000;
+$blue: #1d8699;
+$white: #ffffff;
+$green: #155724;
+$grey: #6c757d;
+$yellow: #f8e2a0;
+$red: #721c24;
+$cyan:  #5a91c7;
+$orange: #eaa245;
+$pink: #ff5f77;
+$purple: #8222db;
+
+$darkRed: #ce352d;
+$lightGrey: #e9ecef;
+$lightPink: #f5c6cb;
+$lightBlue: #bee5eb;
+$lightGreen: #c3e6cb;
+$lightOrange: #ffeeba;
+$darkGrey: #343a40;
+$darkBlue: #004a8f;
+
+// colors - hover
+
+//
